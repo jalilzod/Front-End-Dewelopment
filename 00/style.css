@@ -1,0 +1,19 @@
+
+
+.btn{
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+    padding: 3px 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-right: 100px;
+}
+
+.btn:hover{
+    background-color: rgb(6, 6, 181);
+    color: gray;
+}
+
